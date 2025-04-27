@@ -4,8 +4,7 @@
 
 Here are some ideas to get you started:
 -->
-
-👩‍💻 Sobre Mim
+ 👨‍💻 Sobre Mim
 
 🔭 Atualmente estou trabalhando na criação de códigos em Java, utilizando estruturas de condição, algoritmos e bancos de dados relacionais com PostgreSQL.  
 🌱 Atualmente estou aprendendo Java, JavaScript, CSS, HTML e Python.  
