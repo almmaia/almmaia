@@ -7,7 +7,7 @@ Here are some ideas to get you started:
  👨‍💻 Sobre Mim
 
 🔭 Atualmente estou trabalhando na criação de códigos em Java, utilizando estruturas de condição, algoritmos e bancos de dados relacionais com PostgreSQL.  
-🌱 Atualmente estou aprendendo Java, JavaScript, CSS, HTML e Python.  
+🌱 Atualmente estou aprendendo Java, JavaScript, CSS e HTMl  
 👯 Estou procurando colaborar em projetos de programação para iniciantes e aplicações com banco de dados.  
 🤔 Estou buscando ajuda para melhorar minhas habilidades de lógica e desenvolvimento web. 
 💬 Pode me perguntar sobre logística, programação para iniciantes e noções básicas de banco de dados.  
@@ -24,7 +24,6 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
 </div>
 
