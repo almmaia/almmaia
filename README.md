@@ -13,31 +13,23 @@
 Sou o **Alan Maia**, desenvolvedor em formação com foco em:
 
 - **Java + APIs REST**
-- **Banco de dados**
+- **Banco de Dados**
 - **Node.js**
 - **Full Stack (HTML, CSS, JavaScript)**
-- **Automação e Inteligência Artificial**
+- **Inteligência Artificial e Automação**
 
-Busco criar sistemas eficientes que resolvem problemas reais, com foco em arquitetura limpa, escalabilidade e boas práticas.
+Buscando criar sistemas eficientes que resolvem problemas reais, com foco em arquitetura limpa, escalabilidade e boas práticas.
 
-📍 Palhoça — SC  
-🎓 Bacharelado em Sistemas de Informação  
+🎓 Bacharelando em Sistemas de Informação  
 📬 **alanmaix@gmail.com**
 
 ---
 
-# 💻 Tech Stack Principal
+# 🚧 Tecnologias que estou estudando  
+*(apenas as tecnologias que você REALMENTE está aprendendo)*
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,maven,idea,docker,git,github,linux,html,css,js,nodejs,express" />
-</div>
-
----
-
-# 🚧 Tecnologias que estou estudando
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=aws,react,kotlin,jenkins,py" />
+<img src="https://skillicons.dev/icons?i=java,nodejs,html,css,js,express,aws,kotlin,react,jenkins" />
 </div>
 
 ---
@@ -47,8 +39,8 @@ Busco criar sistemas eficientes que resolvem problemas reais, com foco em arquit
 ### Conceitos e ferramentas
 - 🤖 IA Generativa  
 - 🧠 Machine Learning (iniciante)  
-- ⚙️ Automações com **Twilio**, **Z-API**, **Node.js**, **Python**  
-- 🔌 Integração com APIs externas e bots  
+- ⚙️ Automações com **Twilio**, **Z-API**, **Node.js**  
+- 🔌 Integração com APIs e bots  
 
 ---
 
@@ -66,31 +58,6 @@ Busco criar sistemas eficientes que resolvem problemas reais, com foco em arquit
 - ✔️ Lógica de Programação  
 - ✔️ Banco de Dados Relacional  
 - ✔️ Java Avançado (em andamento)  
-
----
-
-# 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=almmaia&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almmaia&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" />
-</div>
-
----
-
-# 🔥 Streak (Contribuições Diárias)
-
-<div align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=almmaia&theme=tokyonight&hide_border=false&border_radius=10" />
-</div>
-
----
-
-# 🐍 Animação Snake (Commits)
-
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</div>
 
 ---
 
