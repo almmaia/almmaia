@@ -26,7 +26,7 @@ Buscando criar sistemas eficientes que resolvem problemas reais, com foco em arq
 ---
 
 # 🚧 Tecnologias que estou estudando  
-*(apenas as tecnologias que você REALMENTE está aprendendo)*
+
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,nodejs,html,css,js,express,aws,kotlin,react,jenkins" />
