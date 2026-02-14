@@ -1,41 +1,57 @@
-# Alan Maia
+<h1 align="center">Alan Maia</h1>
 
-Backend developer focused on building real-world systems and data pipelines.
+<p align="center">
+Backend Developer • Data Engineering • APIs
+</p>
 
-## About
+<p align="center">
+Building real-world systems and scalable data pipelines
+</p>
 
-I work with backend development, data processing and system integrations.
-Currently building projects using Java, SQL and APIs.
+---
 
-Focused on practical engineering and scalable architectures.
+## 👨‍💻 About
 
-## Tech Stack
+Backend developer focused on building practical systems, data pipelines and integrations.
 
-* Java
-* SQL
-* REST APIs
-* ETL pipelines
-* Docker
-* Git
-* Maven
-* Odoo (ERP)
-* Node.js
+I work with **Java, SQL, APIs and ETL pipelines**, creating projects that simulate real production environments and business scenarios.
 
-## Featured Projects
+Currently focused on backend engineering and data processing.
 
-### Healthcare Financial Data Pipeline
+---
 
-Java ETL pipeline for processing and validating Brazilian healthcare financial data.
+## ⚙️ Tech Stack
 
-### ERP Fuel Control (Odoo)
+<p>
+Java • SQL • REST APIs • ETL • Maven • Git • Docker • Odoo • Node.js
+</p>
 
-Custom ERP module integrated with fleet management.
+---
 
-### Backend APIs & Automation
+## 🚀 Featured Projects
 
-Experiments with automation, integrations and backend services.
+### 🏥 Healthcare Financial Data Pipeline
 
-## Contact
+Production-style ETL pipeline in Java that processes and validates Brazilian healthcare financial data (ANS).
+Focus on resilience, normalization and relational modeling.
 
-LinkedIn: https://www.linkedin.com/in/alnnmaia
-Email: [alanmaix@gmail.com](mailto:alanmaix@gmail.com)
+### 🚛 ERP Fuel Control (Odoo)
+
+Custom ERP module integrated with fleet management for fuel tracking and cost control.
+
+### 🔌 Backend APIs & Automation
+
+Backend services, integrations and automation experiments using Java and Node.js.
+
+---
+
+## 🌎 Location
+
+Brazil
+
+---
+
+## 📫 Contact
+
+* LinkedIn: https://www.linkedin.com/in/alnnmaia
+* Email: [alanmaix@gmail.com](mailto:alanmaix@gmail.com)
