@@ -23,7 +23,7 @@ Currently focused on backend engineering and data processing.
 ## ⚙️ Tech Stack
 
 <p>
-Java • SQL • REST APIs • ETL • Maven • Git • Docker • Odoo • Node.js
+Java • SQL • REST APIs • ETL • Maven • Git • Docker  • Node.js
 </p>
 
 ---
@@ -35,9 +35,7 @@ Java • SQL • REST APIs • ETL • Maven • Git • Docker • Odoo • Nod
 Production-style ETL pipeline in Java that processes and validates Brazilian healthcare financial data (ANS).
 Focus on resilience, normalization and relational modeling.
 
-### 🚛 ERP Fuel Control (Odoo)
 
-Custom ERP module integrated with fleet management for fuel tracking and cost control.
 
 ### 🔌 Backend APIs & Automation
 
