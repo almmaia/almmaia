@@ -12,9 +12,9 @@ Building real-world systems and scalable data pipelines
 
 ## 👨‍💻 About
 
-Backend developer focused on building practical systems, data pipelines and integrations.
+Backend developer focused on building practical systems, data pipelines, and integrations.
 
-I work with **Java, SQL, APIs and ETL pipelines**, creating projects that simulate real production environments and business scenarios.
+I work with **Java, SQL, APIs, and ETL pipelines**, creating projects that simulate real production environments and business scenarios.
 
 Currently focused on backend engineering and data processing.
 
@@ -23,7 +23,7 @@ Currently focused on backend engineering and data processing.
 ## ⚙️ Tech Stack
 
 <p>
-Java • SQL • REST APIs • ETL • Maven • Git • Docker  • Node.js
+Java • SQL • REST APIs • ETL • Maven • Git • Docker • Node.js
 </p>
 
 ---
@@ -33,13 +33,11 @@ Java • SQL • REST APIs • ETL • Maven • Git • Docker  • Node.js
 ### 🏥 Healthcare Financial Data Pipeline
 
 Production-style ETL pipeline in Java that processes and validates Brazilian healthcare financial data (ANS).
-Focus on resilience, normalization and relational modeling.
-
-
+Focus on resilience, normalization, and relational modeling.
 
 ### 🔌 Backend APIs & Automation
 
-Backend services, integrations and automation experiments using Java and Node.js.
+Backend services, integrations, and automation experiments using Java and Node.js.
 
 ---
 
